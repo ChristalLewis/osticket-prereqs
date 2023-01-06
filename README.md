@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Set up the needed virtual machine. You can follow the tutorial [here](https://github.com/ChristalLewis/vm-remote-desktop)
 - Item 2
 - Item 3
 - Item 4
